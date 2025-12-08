@@ -84,6 +84,58 @@ body {
     border: none;
 }
 
+.first-content {
+    background-color: #e3e6eb;
+    color: black;
+    padding: 3em 0;
+    text-align: center;
+}
+
+.first {
+    margin-bottom: 2rem;
+}
+
+.title {
+    margin-bottom: 0.85rem;
+    color: #A59678;
+}
+.content {
+    line-height: 1.5;
+}
+
+.second-content {
+    padding: 3em 0;
+}
+
+.second-details {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
+.side-section {
+    text-align: center;
+    background-color: #3B4050;
+    color: #FFFFFF;
+    padding: 2em;
+    margin-bottom: 2rem;
+}
+
+.side-title {
+    margin-bottom: 1.3rem;
+}
+
+.side-content {
+    line-height: 1.4;
+    font-size: 1.35rem;
+}
+
+.footer {
+    background-color: #2E323F;
+    color: #FFFFFF;
+    padding: 3em 0;
+}
+
 
 
 .web-img {
