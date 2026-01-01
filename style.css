@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 
 .logo {
@@ -63,7 +63,7 @@ body {
 }
 
 .hero-text {
-    font-size: 4rem;
+    font-size: 3rem;
     margin-bottom: 1.5rem;
 }
 
@@ -136,7 +136,34 @@ body {
     padding: 3em 0;
 }
 
+.footer-title {
+    margin-bottom: 1.4rem;
+}
 
+.column-title {
+    margin-bottom: 0.7rem;
+    color: #A59678;
+}
+.footer-content {
+    margin-bottom: 1.2rem;
+}
+
+.footer-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 1.4rem;
+}
+
+.column-item {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.column-item:hover {
+    text-decoration: underline;
+}
 
 .web-img {
     width: 100%;
